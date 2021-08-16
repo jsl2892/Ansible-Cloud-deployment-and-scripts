@@ -1,2 +1,2 @@
-# UCLA-cybersecurity bootcamp
-The project I completed in the bootcamp and to show what I did.
+# Linux and Ansible Scripts from my UCLA cybersecurity class.
+
